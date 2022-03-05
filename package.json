@@ -1,0 +1,11 @@
+{
+  "name": "streak-counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CheezItMan/streak-counter.git",
+  "author": "Chris McAnally <chris@adadevelopersacademy.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.0-beta"
+  }
+}
